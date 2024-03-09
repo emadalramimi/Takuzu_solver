@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\corps\chiffre.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 29" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\corps\coordonnee.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\corps\rangee.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\corps\resolution_takuzu.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\specifications\resolution_takuzu.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\tests\tests_resolution\tests_resolution_takuzu.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\specifications\resolution_takuzu.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr</vfs_project>
+      <vfs_file>C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\src\corps\resolution_takuzu.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

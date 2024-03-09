@@ -1,0 +1,26 @@
+[GENERATED OBJECT FILE]
+b__tests_resolution_takuzu.o
+[PROJECT FILES]
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\takuzu.gpr
+20230104130608 61ffb9bddb4bccf714eb38ad3caec959
+[BOUND OBJECT FILES]
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\chiffre.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\coordonnee.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\rangee.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\grille.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\affichage.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\remplir_grille_takuzu.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\resolution_takuzu.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\tests_resolution_takuzu.o
+[GENERATED SOURCE FILES]
+b__tests_resolution_takuzu.ads
+b__tests_resolution_takuzu.adb
+b__tests_resolution_takuzu.ali
+[RESULTING OPTIONS]
+-LC:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\
+-LC:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.02\SAE_1.02_WETTER_MILED_ALRAMIMI_KERCHOUNE\SAE_1.02\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
