@@ -1,4 +1,4 @@
-# SAE Project: Takuzu Solver
+# SAE University Project: Takuzu Solver
 
 Welcome to the SAE project on Takuzu solver. This repository offers an Ada-based solution for automating Takuzu (binary puzzles) resolutions, featuring modules for grid representation, coordinates management, rules validation, and systematic puzzle solving.
 
